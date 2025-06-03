@@ -70,6 +70,22 @@ section h3 {
   color: #0066cc;
 }
 
+.activity-card ul {
+  margin-left: 20px;
+  margin-bottom: 0;
+  padding-left: 18px;
+  list-style-type: disc;
+  background: #fff;
+  border-radius: 4px;
+  border: 1px solid #eee;
+  font-size: 15px;
+}
+
+.activity-card ul li {
+  margin-bottom: 2px;
+  color: #333;
+}
+
 .activity-card p {
   margin-bottom: 8px;
 }
