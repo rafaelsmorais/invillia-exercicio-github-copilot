@@ -82,7 +82,7 @@ section h3 {
   color: #444;
 }
 
-.activity-card li {
+.activity-card li, .participant {
   margin-bottom: 2px;
 }
 
